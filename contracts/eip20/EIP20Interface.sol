@@ -12,8 +12,6 @@ contract EIP20Interface {
     currently recognised as an implementation of the matching abstract
     function by the compiler.
     */
-    /// total amount of tokens
-    uint256 public totalSupply;
 
     /// @param _owner The address from which the balance will be retrieved
     /// @return The balance
